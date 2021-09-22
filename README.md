@@ -1,4 +1,4 @@
-# Kalkulator Made by Python
+# Calculator Made by Python
 ```bash 
 Practice making calculator
 ```
